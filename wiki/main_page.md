@@ -16,15 +16,15 @@ I love to automate everything, from recording the score of a musical piece that 
 To obtain a well-paid full-time job, remotely or not (after covid - better not, i long for all in-person team), where i could work with things connected to cloud and web-services, network and automation engineering.
 
 # Education
-- **NRNU MEPHI | Bachelor of Applied Mathematics and Informatics**
+- **NRNU MEPHI &#124; Bachelor of Applied Mathematics and Informatics**
 
 (September 2014 - August 2018)
 
-- **NRNU MEPHI | Master of Software Engineering**
+- **NRNU MEPHI &#124; Master of Software Engineering**
 
 (September 2018 - August 2020)
 
-- **NRNU MEPHI | Computer science and computer facilities, postgraduate program**
+- **NRNU MEPHI &#124; Computer science and computer facilities, postgraduate program**
 
 (September 2020 - Now)
 
