@@ -3,14 +3,14 @@ redirect_from: /
 published: true
 ---
 # Structure
-At some point, we begin to feel an urgent need to structure our thoughts and developments, then we start notebooks, catalogs, article list managers, lists of list managers, and so on to exhaustion.
+At some point, we begin to feel an urgent need to structure our thoughts and developments, then we start notebooks, catalogs, article list managers, lists of article list managers, and so on to exhaustion.
 
 Then GitHub and its Pages gives you the one to rule them all, and here we are.
 
 Therefore, everything I want to have access to at any time and dare not to keep it secret will be in wiki pages and, sometimes, blog posts.
 
 # About me
-I love to automate everything, from recording the score of a musical piece that I am playing and coming up with right now, to searching for news, from processing photos to running rick-roll on the machine of a guy, responsible for the failed build. I love ready-made and proven solutions, but love it's application like of wich has never been popular. Crutches are also inevitable.
+I love to automate everything, from recording the score of a musical piece that I am playing and coming up with right now, to searching for news, from processing photos to running rick-roll on the machine of a guy, responsible for the failed build. I love ready-made and proven solutions, but also love it's application like of wich has never been popular. Crutches are also inevitable.
 
 # Objective
 To obtain a well-paid full-time job, remotely or not (after covid - better not, i long for all in-person team), where i could work with things connected to cloud and web-services, network and automation engineering.
@@ -45,7 +45,7 @@ Full-time job, away from office for last half a year. API supplier integration (
 
 (November 2020 - Now)
 
-Part-time job of news coverage and paper reviewing. Specialization - data sciense.
+Part-time job of news coverage and paper reviewing. Specialization - data sciense. RSS-feeds filtering and advanced google search are my best friends.
 
 # Skills
 - Python for data collection and analysis (pandas, sklearn, multiprocessing and futures) and web-development (Django, Django Channels);
