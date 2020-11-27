@@ -10,17 +10,17 @@ Then GitHub and its Pages gives you the one to rule them all, and here we are.
 Therefore, everything I want to have access to at any time and dare not to keep it secret will be in wiki pages and, sometimes, blog posts.
 
 __Tips__
-{: style="color:gray; font-size: 80%; text-align: center;"}
+{: text-align: center;"}
 Local &#183 Remote
-{: style="color:gray; font-size: 80%; text-align: center;"}
+{: text-align: center;"}
 __Findings__
-{: style="color:gray; font-size: 80%; text-align: center;"}
-Automation &#183  &#183 Network
-{: style="color:gray; font-size: 80%; text-align: center;"}
+{: text-align: center;"}
+Automation &#183 Network
+{: text-align: center;"}
 __Hobbies__
-{: style="color:gray; font-size: 80%; text-align: center;"}
+{: text-align: center;"}
 Games &#183 Music &#183 [Poetry](/blog)
-{: style="color:gray; font-size: 80%; text-align: center;"}
+{: text-align: center;"}
 # About me
 I love to automate everything, from recording the score of a musical piece that I am playing and coming up with right now, to searching for news, from processing photos to running rick-roll on the machine of a guy, responsible for the failed build. I love ready-made and proven solutions, but also love it's application like of wich has never been popular. Crutches are also inevitable.
 
