@@ -21,8 +21,9 @@ __Hobbies__
 {: style="text-align: center;"}
 [Games](/games) &#183; [Music](/music) &#183; [Poetry](/blog)
 {: style="text-align: center;"}
+
 # About me
-I love to automate everything, from recording the score of a musical piece that I am playing and coming up with right now, to searching for news, from processing photos to running rick-roll on the machine of a guy, responsible for the failed build. I love ready-made and proven solutions, but also love it's application like of wich has never been popular. Crutches are also inevitable.
+I love to automate everything, from recording the score of a musical piece that I am playing and coming up with right now, to searching for news, from processing photos to running rick-roll on the machine of a guy, responsible for the failed build. I love ready-made and proven solutions, but also love it's application like of wich has never been popular. Crutches are also inevitable, in so doing.
 
 # Objective
 To obtain a well-paid full-time job, remotely or not (after covid - better not, i long for all in-person team), where i could work with things connected to cloud and web-services, network and automation engineering.
@@ -69,4 +70,4 @@ Part-time job of news coverage and paper reviewing. Specialization - data sciens
 - Jenkins and GitLab for CI;
 - Zabbix or EastickSearch, APM and Kibana for metrics collecting and monitoring, very interested in it with DataDog, or Ganglia, or Nagios, or Graphite, or Carbon, or Moira...;
 - VMWare products for virtualization;
-- Very interested in work with containerization in different forms, but has very-very small experience with Docker, Ansible, etc.
+- Very interested in work with containerization in different forms, but has very-very small experience with Docker, Ansible, Kubernetes, etc.
