@@ -11,15 +11,15 @@ Therefore, everything I want to have access to at any time and dare not to keep 
 
 __Tips__
 {: style="text-align: center;"}
-Local &#183 Remote
+[Local](/local) &#183; [Remote](/remote)
 {: style="text-align: center;"}
 __Findings__
 {: style="text-align: center;"}
-Automation &#183  &#183 Network
+[Automation](/automation) &#183;  &#183; [Network](/network)
 {: style="text-align: center;"}
 __Hobbies__
 {: style="text-align: center;"}
-Games &#183 Music &#183 [Poetry](/blog)
+[Games](/games) &#183; [Music](/music) &#183; [Poetry](/blog)
 {: style="text-align: center;"}
 # About me
 I love to automate everything, from recording the score of a musical piece that I am playing and coming up with right now, to searching for news, from processing photos to running rick-roll on the machine of a guy, responsible for the failed build. I love ready-made and proven solutions, but also love it's application like of wich has never been popular. Crutches are also inevitable.
