@@ -9,6 +9,18 @@ Then GitHub and its Pages gives you the one to rule them all, and here we are.
 
 Therefore, everything I want to have access to at any time and dare not to keep it secret will be in wiki pages and, sometimes, blog posts.
 
+<div align="center"> __Tips__
+
+Local &#183 Remote
+
+__Findings__
+
+Automation &#183  &#183 Network
+
+__Hobbies__
+
+Games &#183 Music &#183 [Poetry](/blog) </div>
+
 # About me
 I love to automate everything, from recording the score of a musical piece that I am playing and coming up with right now, to searching for news, from processing photos to running rick-roll on the machine of a guy, responsible for the failed build. I love ready-made and proven solutions, but also love it's application like of wich has never been popular. Crutches are also inevitable.
 
