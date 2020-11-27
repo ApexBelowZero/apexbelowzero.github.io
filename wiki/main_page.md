@@ -9,15 +9,15 @@ Then GitHub and its Pages gives you the one to rule them all, and here we are.
 
 Therefore, everything I want to have access to at any time and dare not to keep it secret will be in wiki pages and, sometimes, blog posts.
 
-__Tips__
+Tips
 {: style="text-align: center;"}
 [Local](/local) &#183; [Remote](/remote)
 {: style="text-align: center;"}
-__Findings__
+Findings
 {: style="text-align: center;"}
 [Automation](/automation) &#183;  &#183; [Network](/network)
 {: style="text-align: center;"}
-__Hobbies__
+Hobbies
 {: style="text-align: center;"}
 [Games](/games) &#183; [Music](/music) &#183; [Poetry](/blog)
 {: style="text-align: center;"}
