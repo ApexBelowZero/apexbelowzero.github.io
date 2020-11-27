@@ -15,7 +15,7 @@ Tips
 {: style="text-align: center;"}
 Findings
 {: style="text-align: center;"}
-[Automation](/automation) &#183;  &#183; [Network](/network)
+[Automation](/automation) &#183; [Network](/network)
 {: style="text-align: center;"}
 Hobbies
 {: style="text-align: center;"}
